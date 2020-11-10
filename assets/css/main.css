@@ -42,6 +42,7 @@ h2{
 h3{
 	font-size: 18px;
 	font-style: bold;
+	color:#437089;
 }
 
 h5{
@@ -129,7 +130,7 @@ a:after {
 }
 
 .navbar-inverse .navbar-nav > li > a:hover {
-	color: #222222;
+	color: #333;
 }
 
 .navbar-brand {
