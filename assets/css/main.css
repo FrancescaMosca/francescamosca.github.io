@@ -24,7 +24,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Roboto', sans-serif;
     font-weight: 700;
-    color: #333;
+    color: #555;
 }
 
 h1 {
@@ -119,9 +119,9 @@ a:after {
 }
 
 .navbar-inverse {
-	background-color:#9c0505;
+	background-color:#4d829e;
 	/*background-color: #1abc9c;*/
-	border-color: #9c0505;
+	border-color: #4d829e;
 }
 
 .navbar-inverse .navbar-nav > li > a {
@@ -147,7 +147,7 @@ a:after {
 }
 
 .progress-bar-theme {
-  background-color: #9c0505;
+  background-color: #4d829e;
 }
 
 
@@ -263,5 +263,5 @@ bt {
 
 .glyphicon {
 	font-size: 40px;
-	color: #9c0505;
+	color: #4d829e;
 }
